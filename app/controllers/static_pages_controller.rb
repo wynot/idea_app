@@ -2,7 +2,6 @@ class StaticPagesController < ApplicationController
   
   def home
     @ideas = Idea.all
-    @opportunities = Opportunity.all
     bubble_data = []
     @ideas.each do |i|
       bubble_data << { x: i.id, y: 1, z: 3, name: i.name }

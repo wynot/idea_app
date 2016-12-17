@@ -19,6 +19,22 @@
     <%= f.label :industry %><br>
     <%= f.text_field :industry %>
   </div>
+  <div class="field">
+    <%= f.label :market_size_millions %><br>
+    <%= f.number_field :market_size_millions %>
+  </div>
+  <div class="field">
+    <%= f.label :stage %><br>
+    <%= f.number_field :stage, class: :text_field, step: 0.1 %>
+  </div>
+  <div class="field">
+    <%= f.label :conviction %><br>
+    <%= f.number_field :conviction %>
+  </div>
+  <div class="field">
+    <%= f.label :notes %><br>
+    <%= f.text_area :notes %>
+  </div>
   <div class="actions">
     <%= f.submit %>
   </div>

@@ -10,5 +10,25 @@
   <%= @idea.industry %>
 </p>
 
+<p>
+  <strong>Market Size (in millions):</strong>
+  <%= @idea.market_size_millions %>
+</p>
+
+<p>
+  <strong>Stage in our process:</strong>
+  <%= @idea.stage %>
+</p>
+
+<p>
+  <strong>Conviction:</strong>
+  <%= @idea.conviction %>
+</p>
+
+<p>
+  <strong>Notes:</strong>
+  <%= @idea.notes %>
+</p>
+
 <%= link_to 'Edit', edit_idea_path(@idea) %> |
 <%= link_to 'Back', ideas_path %>
