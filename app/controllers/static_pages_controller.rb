@@ -4,7 +4,7 @@ class StaticPagesController < ApplicationController
     @ideas = Idea.all
     bubble_data = []
     @ideas.each do |i|
-      bubble_data << { x: i.id, y: 1, z: 3, name: i.name }
+      bubble_data << { x: i.stage, y: i.conviction, z: i.market_size, name: i.name, notes: i.notes }
     end
     @chart = draw_bubble_chart(bubble_data)
   end
@@ -12,14 +12,91 @@ class StaticPagesController < ApplicationController
 private
   
   def draw_bubble_chart(bubble_data)
-    LazyHighCharts::HighChart.new('bubble') do |f|
-      f.title(text: 'Ideas!')            
+    LazyHighCharts::HighChart.new('bubble') do |f|        
       f.chart(
         type: 'bubble', 
         zoomType: 'xy', 
         plotBorderWidth: 1)
       f.xAxis(
-        )
+        title: {
+          text: "Stage of Idea Progress"
+        },
+        min: 0,
+        max: 5,
+        labels: {
+          format: 'Stage {value}',
+          step: 2
+        },
+        plotLines: [
+          {
+            color: 'black',
+            dashStyle: 'dot',
+            width: 2,
+            value: 1,
+            label: {
+              rotation: 0,
+              y: 15,
+              style: {
+                fontStyle: 'italic'
+              },
+              text: 'Early stage of an idea'
+            },
+            zIndex: 3
+          },
+          {
+            color: 'black',
+            dashStyle: 'dot',
+            width: 2,
+            value: 2,
+            label: {
+              rotation: 0,
+              y: 45,
+              style: {
+                fontStyle: 'italic'
+              },
+              text: 'Problem validated with users, market size ok'
+            },
+            zIndex: 3
+          },
+          {
+            color: 'black',
+            dashStyle: 'dot',
+            width: 2,
+            value: 3,
+            label: {
+              rotation: 0,
+              y: 15,
+              style: {
+                fontStyle: 'italic'
+              },
+              text: 'Expert interviews OK, prototype and model checking out'
+            },
+            zIndex: 3
+          },
+          {
+            color: 'black',
+            dashStyle: 'dot',
+            width: 2,
+            value: 4,
+            label: {
+              rotation: 0,
+              y: 45,
+              style: {
+                fontStyle: 'italic'
+              },
+              text: 'Victory!!!'
+            },
+            zIndex: 3
+          }
+        ]
+      )
+      f.yAxis(
+        title: {
+          text: "Level of Conviction (1-10)"
+        },
+        max: 10,
+        min: 0
+      )
       f.plotOptions(
         series: {
           dataLabels: {
@@ -39,6 +116,17 @@ private
           fillOpacity: 0.2
        }
      )
+      f.legend(
+        enabled: false
+      )
+      f.tooltip(
+        useHTML: true,
+        headerFormat: '<table>',
+        pointFormat:  '<tr><th colspan="2"><h3>{point.name}</h3></th></tr>' +
+                      '<tr><th>Notes:</th><td>{point.notes}</td></tr>',
+        footerFormat: '</table>',
+        followPointer: true
+      )
     end
   end
 

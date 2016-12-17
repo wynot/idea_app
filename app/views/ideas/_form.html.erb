@@ -20,8 +20,8 @@
     <%= f.text_field :industry %>
   </div>
   <div class="field">
-    <%= f.label :market_size_millions %><br>
-    <%= f.number_field :market_size_millions %>
+    <%= f.label :market_size %><br>
+    <%= f.number_field :market_size, class: :text_field, step: 0.1  %>
   </div>
   <div class="field">
     <%= f.label :stage %><br>

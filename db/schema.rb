@@ -18,7 +18,7 @@ ActiveRecord::Schema.define(version: 20161217204025) do
     t.string   "industry"
     t.datetime "created_at",           null: false
     t.datetime "updated_at",           null: false
-    t.integer  "market_size_millions"
+    t.integer  "market_size"
     t.float    "stage"
     t.text     "notes"
     t.integer  "conviction"
