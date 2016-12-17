@@ -10,10 +10,12 @@
   </tr>
   <% @ideas.each do |i| %>
   <tr>
-    <td><%= i.name %></td>
-    <td><%= i.industry %></td>
-    <td>edit |</td>
-    <td>delete</td>
+    <td><%= link_to i.name, i %> &nbsp; &nbsp;</td>
+    <td><%= i.industry %> &nbsp; &nbsp;</td>
+    <td><%= link_to 'more', i %> | </td>
+    <td><%= link_to 'edit', edit_idea_path(i) %> | </td>
+    <td><%= link_to 'delete', i, 
+                    data: {:confirm => 'Are you sure?'}, :method => :delete %></td>
   </tr>
   <% end %>
 </table>
