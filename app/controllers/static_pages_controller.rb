@@ -1,6 +1,14 @@
 class StaticPagesController < ApplicationController
   
   def home
+  end
+
+  def travel_tracker
+    @users = User.all
+    @places = Place.all
+  end
+
+  def idea_bubbles
     @ideas = Idea.all
     bubble_data = []
     @ideas.each do |i|

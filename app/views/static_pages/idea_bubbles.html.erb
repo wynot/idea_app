@@ -1,0 +1,29 @@
+<h1>Ideas we are working on</h1>
+
+<%= high_chart("some_id", @chart) %>
+
+<h2>Idea list</h2>
+<p><%= link_to "Create a new idea", :controller => "ideas", :action => "new" %></p>
+
+<table>
+  <tr>
+    <th>Idea &nbsp; &nbsp;</th>
+    <th>Industry &nbsp; &nbsp;</th>
+    <th>Market Size (B) &nbsp; &nbsp;</th>
+    <th>Stage (1-4) &nbsp; &nbsp;</th>
+    <th>Confidence (1-10) &nbsp; &nbsp;</th>
+  </tr>
+  <% @ideas.each do |i| %>
+  <tr>
+    <td><%= link_to i.name, i %> &nbsp; &nbsp;</td>
+    <td><%= i.industry %> &nbsp; &nbsp;</td>
+    <td><%= i.market_size %> &nbsp; &nbsp;</td>
+    <td><%= i.stage %> &nbsp; &nbsp;</td>
+    <td><%= i.conviction %> &nbsp; &nbsp;</td>
+    <td><%= link_to 'more', i %> | </td>
+    <td><%= link_to 'edit', edit_idea_path(i) %> | </td>
+    <td><%= link_to 'delete', i, 
+                    data: {:confirm => 'Are you sure?'}, :method => :delete %></td>
+  </tr>
+  <% end %>
+</table>

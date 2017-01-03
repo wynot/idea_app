@@ -1,0 +1,2074 @@
+# places and coordinates from here: https://www.google.com/maps/d/viewer?mid=1jDfBSgkGMdGLhI8PtQshfxHd-L0&hl=en_US&ll=10.42298820542602%2C5.515136750000011&z=2
+
+place1:
+  id: 1
+  name: Aland Islands
+  latitude: 60.097718
+  longitude: 19.929199
+
+place2:
+  id: 2
+  name: Albania
+  latitude: 41.343825
+  longitude: 19.830322
+
+place3:
+  id: 3
+  name: Andorra
+  latitude: 42.549034
+  longitude: 1.546326
+
+place4:
+  id: 4
+  name: Austria
+  latitude: 48.210032
+  longitude: 16.369629
+
+place5:
+  id: 5
+  name: Balearic Islands (Mallorca, Menorca)
+  latitude: 39.563353
+  longitude: 2.625732
+
+place6:
+  id: 6
+  name: Belarus
+  latitude: 53.904338
+  longitude: 27.564697000000002
+
+place7:
+  id: 7
+  name: Belgium
+  latitude: 50.854509
+  longitude: 4.3396
+
+place8:
+  id: 8
+  name: Bosnia & Herzegovina 
+  latitude: 43.850374
+  longitude: 18.413086
+
+place9:
+  id: 9
+  name: Bulgaria
+  latitude: 42.698586
+  longitude: 23.334961
+
+place10:
+  id: 10
+  name: Corsica
+  latitude: 42.041134
+  longitude: 9.173584
+
+place11:
+  id: 11
+  name: Crete
+  latitude: 35.308401
+  longitude: 25.147705
+
+place12:
+  id: 12
+  name: Croatia
+  latitude: 45.828799
+  longitude: 15.974121
+
+place13:
+  id: 13
+  name: Cyprus, Republic
+  latitude: 34.939985
+  longitude: 32.684326
+
+place14:
+  id: 14
+  name: Cyprus, Turkish Fed. State. Northern Cyprus
+  latitude: 35.281501
+  longitude: 33.662109
+
+place15:
+  id: 15
+  name: Czech Republic
+  latitude: 50.078295
+  longitude: 14.425049
+
+place16:
+  id: 16
+  name: Denmark
+  latitude: 55.677584
+  longitude: 12.568359
+
+place17:
+  id: 17
+  name: Dodecanese Is. (Rhodes)
+  latitude: 36.4036
+  longitude: 28.190918
+
+place18:
+  id: 18
+  name: Estonia
+  latitude: 59.45624300000001
+  longitude: 24.763184
+
+place19:
+  id: 19
+  name: Finland
+  latitude: 60.185233000000004
+  longitude: 24.916992
+
+place20:
+  id: 20
+  name: France
+  latitude: 48.864715
+  longitude: 2.351074
+
+place21:
+  id: 21
+  name: Germany
+  latitude: 52.509535
+  longitude: 13.381348
+
+place22:
+  id: 22
+  name: Gibraltar
+  latitude: 36.135657
+  longitude: -5.348282
+
+place23:
+  id: 23
+  name: Greece
+  latitude: 37.978845
+  longitude: 23.730469
+
+place24:
+  id: 24
+  name: Guernsey & Deps
+  latitude: 49.45786
+  longitude: -2.535782
+
+place25:
+  id: 25
+  name: Hungary
+  latitude: 47.517201
+  longitude: 19.02832
+
+place26:
+  id: 26
+  name: Ionian Islands (Corfu, etc.)
+  latitude: 39.635307
+  longitude: 19.9086
+
+place27:
+  id: 27
+  name: Ireland (Eire)
+  latitude: 53.350551
+  longitude: -6.273193
+
+place28:
+  id: 28
+  name: Ireland, Northern (Ulster)
+  latitude: 54.597528
+  longitude: -5.932617
+
+place29:
+  id: 29
+  name: Isle of Man
+  latitude: 54.149567
+  longitude: -4.493408
+
+place30:
+  id: 30
+  name: Italy
+  latitude: 41.885921
+  longitude: 12.469482
+
+place31:
+  id: 31
+  name: Jersey
+  latitude: 49.182601
+  longitude: -2.109375
+
+place32:
+  id: 32
+  name: Kaliningrad
+  latitude: 54.711929
+  longitude: 20.516968
+
+place33:
+  id: 33
+  name: Kosovo
+  latitude: 42.589489
+  longitude: 20.939941
+
+place34:
+  id: 34
+  name: Lampedusa
+  latitude: 35.495338
+  longitude: 12.601318
+
+place35:
+  id: 35
+  name: Latvia
+  latitude: 56.944974
+  longitude: 24.082031
+
+place36:
+  id: 36
+  name: Liechtenstein
+  latitude: 47.138359
+  longitude: 9.508667
+
+place37:
+  id: 37
+  name: Luxembourg
+  latitude: 49.614269
+  longitude: 6.130371
+
+place38:
+  id: 38
+  name: Macedonia
+  latitude: 42.00440700000001
+  longitude: 21.42334
+
+place39:
+  id: 39
+  name: Malta
+  latitude: 35.899063
+  longitude: 14.517059
+
+place40:
+  id: 40
+  name: Moldova
+  latitude: 47.010226
+  longitude: 28.828124999999996
+
+place41:
+  id: 41
+  name: Monaco
+  latitude: 43.734701
+  longitude: 7.421265
+
+place42:
+  id: 42
+  name: Montenegro
+  latitude: 42.429539
+  longitude: 19.256287
+
+place43:
+  id: 43
+  name: Netherlands
+  latitude: 52.355474
+  longitude: 4.888916
+
+place44:
+  id: 44
+  name: Norway
+  latitude: 59.910976000000005
+  longitude: 10.722656
+
+place45:
+  id: 45
+  name: Poland
+  latitude: 52.227799
+  longitude: 20.961914
+
+place46:
+  id: 46
+  name: Portugal
+  latitude: 38.719805
+  longitude: -9.162598
+
+place47:
+  id: 47
+  name: Romania
+  latitude: 44.43378
+  longitude: 26.081543
+
+place48:
+  id: 48
+  name: Russia
+  latitude: 55.751849
+  longitude: 37.595215
+
+place49:
+  id: 49
+  name: San Marino
+  latitude: 43.940428
+  longitude: 12.45575
+
+place50:
+  id: 50
+  name: Sardinia
+  latitude: 39.842286
+  longitude: 9.052734
+
+place51:
+  id: 51
+  name: Scotland
+  latitude: 55.9492
+  longitude: -3.208008
+
+place52:
+  id: 52
+  name: Serbia
+  latitude: 44.816916
+  longitude: 20.456543
+
+place53:
+  id: 53
+  name: Sicily
+  latitude: 38.08269
+  longitude: 13.359375
+
+place54:
+  id: 54
+  name: Slovakia
+  latitude: 48.14409800000001
+  longitude: 17.105713
+
+place55:
+  id: 55
+  name: Slovenia
+  latitude: 46.050361
+  longitude: 14.501953
+
+place56:
+  id: 56
+  name: Spain
+  latitude: 40.396764
+  longitude: -3.7133790000000007
+
+place57:
+  id: 57
+  name: Spitsbergen- Svalbard, Bear Island
+  latitude: 77.504119
+  longitude: 15.996094000000001
+
+place58:
+  id: 58
+  name: Bear island
+  latitude: 74.508155
+  longitude: 18.889618
+
+  latitude: 77.513624
+  longitude: 16.077118
+
+place59:
+  id: 59
+  name: Srpska
+  latitude: 44.77403600000001
+  longitude: 17.210083
+
+place60:
+  id: 60
+  name: Sweden
+  latitude: 59.31076800000001
+  longitude: 18.039551
+
+place61:
+  id: 61
+  name: Switzerland
+  latitude: 46.942762
+  longitude: 7.426758000000001
+
+place62:
+  id: 62
+  name: Trans Dniester
+  latitude: 46.845164
+  longitude: 29.624634
+
+place63:
+  id: 63
+  name: Turkey in Europe (Istanbul)
+  latitude: 41.020319
+  longitude: 28.966826999999995
+
+place64:
+  id: 64
+  name: Ukraine
+  latitude: 50.457504
+  longitude: 30.509033
+
+place65:
+  id: 65
+  name: Vatican City
+  latitude: 41.902165000000004
+  longitude: 12.453518000000003
+
+place66:
+  id: 66
+  name: Wales
+  latitude: 51.467697
+  longitude: -3.175049
+
+place67:
+  id: 67
+  name: Alaska
+  latitude: 64.997939
+  longitude: -151.699219
+
+place68:
+  id: 68
+  name: Canada
+  latitude: 46.800059
+  longitude: -79.980469
+
+place69:
+  id: 69
+  name: Mexico
+  latitude: 20.797201
+  longitude: -101.25
+
+place70:
+  id: 70
+  name: Belize
+  latitude: 17.14079
+  longitude: -88.769531
+
+place71:
+  id: 71
+  name: Costa Rica
+  latitude: 9.925566
+  longitude: -83.935547
+
+place72:
+  id: 72
+  name: El Salvador
+  latitude: 13.624633
+  longitude: -88.901367
+
+place73:
+  id: 73
+  name: Guatemala
+  latitude: 15.36895
+  longitude: -90.395508
+
+place74:
+  id: 74
+  name: Argentina
+  latitude: -34.5608598
+  longitude: -58.4033201
+
+place75:
+  id: 75
+  name: Bolivia
+  latitude: -19.020577
+  longitude: -65.2587894
+
+place76:
+  id: 76
+  name: Chile
+  latitude: -33.4864358
+  longitude: -70.6420898
+
+place77:
+  id: 77
+  name: Colombia
+  latitude: 4.6968795
+  longitude: -74.0917969
+
+place78:
+  id: 78
+  name: Ecuador
+  latitude: -0.3515601
+  longitude: -78.3984372
+
+place79:
+  id: 79
+  name: French Guiana
+  latitude: 4.9158327
+  longitude: -52.3059081
+
+place80:
+  id: 80
+  name: United States
+  latitude: 39.095963
+  longitude: -79.980469
+
+place81:
+  id: 81
+  name: Visit all 50 states
+  latitude: 37.439974
+  longitude: -83.496094
+
+place82:
+  id: 82
+  name: Visit extensively 
+  latitude: 49.837982
+  longitude: -85.957031
+
+place83:
+  id: 83
+  name: Price Edward Island
+  latitude: 46.255847
+  longitude: -62.929687
+
+place84:
+  id: 84
+  name: St. Pierre & Miquelon
+  latitude: 48.835797
+  longitude: -55.634766
+
+place85:
+  id: 85
+  name: Honduras
+  latitude: 15.050906
+  longitude: -86.94580100000002
+
+place86:
+  id: 86
+  name: Nicaragua
+  latitude: 12.811801
+  longitude: -85.495605
+
+place87:
+  id: 87
+  name: Panama
+  latitude: 8.971897
+  longitude: -79.584961
+
+place88:
+  id: 88
+  name: Guyana
+  latitude: 6.7955347
+  longitude: -58.1396482
+
+place89:
+  id: 89
+  name: Suriname
+  latitude: 5.8346166
+  longitude: -55.195312300000005
+
+place90:
+  id: 90
+  name: Venezuela
+  latitude: 10.5094163
+  longitude: -66.7749023
+
+place91:
+  id: 91
+  name: Paraguay
+  latitude: -25.2645682
+  longitude: -57.5903317
+
+place92:
+  id: 92
+  name: Peru
+  latitude: -11.9533493
+  longitude: -76.992187
+
+place93:
+  id: 93
+  name: Uruguay
+  latitude: -34.8859306
+  longitude: -56.1401366
+
+place94:
+  id: 94
+  name: Brazil
+  latitude: -22.8774408
+  longitude: -43.1982422
+
+place95:
+  id: 95
+  name: Nueva Esparta (Margarita Island)
+  latitude: 10.99512
+  longitude: -64.006348
+
+place96:
+  id: 96
+  name: Abu Dhabi
+  latitude: 24.477150000000005
+  longitude: 54.360352
+
+place97:
+  id: 97
+  name: Ajman
+  latitude: 25.3918
+  longitude: 55.473404
+
+place98:
+  id: 98
+  name: Bahrain
+  latitude: 26.160369
+  longitude: 50.526123
+
+place99:
+  id: 99
+  name: Dubai
+  latitude: 25.040815
+  longitude: 55.17334
+
+place100:
+  id: 100
+  name: Egypt in Asia (Sinai Peninsula)
+  latitude: 28.921631
+  longitude: 34.024658
+
+place101:
+  id: 101
+  name: Fujeirah
+  latitude: 25.125393
+  longitude: 56.359863
+
+place102:
+  id: 102
+  name: Iran
+  latitude: 32.7688
+  longitude: 53.349609
+
+place103:
+  id: 103
+  name: Iraq
+  latitude: 32.990236
+  longitude: 43.066406
+
+place104:
+  id: 104
+  name: Israel
+  latitude: 30.789037
+  longitude: 34.84863300000001
+
+place105:
+  id: 105
+  name: Jordan
+  latitude: 31.728167000000003
+  longitude: 36.650391
+
+place106:
+  id: 106
+  name: Kuwait
+  latitude: 29.458731
+  longitude: 47.548828
+
+place107:
+  id: 107
+  name: Lebanon
+  latitude: 33.988918
+  longitude: 35.705566
+
+place108:
+  id: 108
+  name: Oman
+  latitude: 19.890723
+  longitude: 55.854492
+
+place109:
+  id: 109
+  name: Socotra
+  latitude: 12.554564
+  longitude: 53.745117
+
+place110:
+  id: 110
+  name: Gaza
+  latitude: 31.512996
+  longitude: 34.417419
+
+place111:
+  id: 111
+  name: Palestine
+  latitude: 31.877558
+  longitude: 35.244141000000006
+
+place112:
+  id: 112
+  name: Qatar
+  latitude: 25.344026000000003
+  longitude: 51.240234
+
+place113:
+  id: 113
+  name: Ras Al Khaimah
+  latitude: 25.79
+  longitude: 55.964355
+
+place114:
+  id: 114
+  name: Saudi Arabia
+  latitude: 24.287027
+  longitude: 45.637207
+
+place115:
+  id: 115
+  name: Sharjah
+  latitude: 25.341544
+  longitude: 55.395813
+
+place116:
+  id: 116
+  name: Syria
+  latitude: 35.101934
+  longitude: 38.232422
+
+place117:
+  id: 117
+  name: UAE
+  latitude: 24.477150000000005
+  longitude: 54.360352
+
+place118:
+  id: 118
+  name: Umm Al Qaiwain
+  latitude: 25.510531
+  longitude: 55.567131
+
+place119:
+  id: 119
+  name: Yemen
+  latitude: 15.749963
+  longitude: 47.680664
+
+place120:
+  id: 120
+  name: Andaman-Nicobar Islands
+  latitude: 12.21118
+  longitude: 92.702637
+
+place121:
+  id: 121
+  name: British Indian Ocean territory
+  latitude: -6.227934000000001
+  longitude: 72.202148
+
+place122:
+  id: 122
+  name: Christmas Island
+  latitude: -10.314919
+  longitude: 105.556641
+
+place123:
+  id: 123
+  name: Comoros Islands
+  latitude: -11.673755
+  longitude: 43.330078
+
+place124:
+  id: 124
+  name: Lakshadweep
+  latitude: 10.09867
+  longitude: 73.641357
+
+place125:
+  id: 125
+  name: Madagascar
+  latitude: -19.311143
+  longitude: 47.197266
+
+place126:
+  id: 126
+  name: Cocos Islands
+  latitude: -12.039321
+  longitude: 96.767578
+
+place127:
+  id: 127
+  name: Maldive Islands
+  latitude: 3.074695
+  longitude: 73.388672
+
+place128:
+  id: 128
+  name: Mauritius
+  latitude: -20.179724
+  longitude: 57.612305
+
+place129:
+  id: 129
+  name: Mayotte
+  latitude: -12.811801
+  longitude: 45.043945
+
+place130:
+  id: 130
+  name: Reunion
+  latitude: -21.207459
+  longitude: 55.50293
+
+place131:
+  id: 131
+  name: Rodriguez Island
+  latitude: -19.698193
+  longitude: 63.422698999999994
+
+place132:
+  id: 132
+  name: Zil Elwannyen Sesel- outer islands seychelles
+  latitude: -5.769036
+  longitude: 53.305664
+
+place133:
+  id: 133
+  name: Seychelles
+  latitude: -4.521666
+  longitude: 55.371094
+
+place134:
+  id: 134
+  name: Algeria
+  latitude: 36.173357
+  longitude: 6.416016
+
+place135:
+  id: 135
+  name: Angola
+  latitude: -12.125264
+  longitude: 14.0625
+
+place136:
+  id: 136
+  name: Benin
+  latitude: 9.449062
+  longitude: 2.373047
+
+place137:
+  id: 137
+  name: Botswana
+  latitude: -23.32208
+  longitude: 20.566406
+
+place138:
+  id: 138
+  name: Burkina Faso
+  latitude: 12.382928
+  longitude: -1.933594
+
+place139:
+  id: 139
+  name: Burundi
+  latitude: -3.337954
+  longitude: 29.707031
+
+place140:
+  id: 140
+  name: Cabinda
+  latitude: -5.462896
+  longitude: 12.161865
+
+place141:
+  id: 141
+  name: Cameroon
+  latitude: 4.915833
+  longitude: 12.832031000000002
+
+place142:
+  id: 142
+  name: Central African Republican
+  latitude: 6.664608
+  longitude: 20.126953
+
+place143:
+  id: 143
+  name: Chad
+  latitude: 9.015302
+  longitude: 16.611328
+
+place144:
+  id: 144
+  name: Congo
+  latitude: -0.703107
+  longitude: 15.468750000000002
+
+place145:
+  id: 145
+  name: Democratic Republic of Congo
+  latitude: -4.915833
+  longitude: 15.644531
+
+place146:
+  id: 146
+  name: Djibouti
+  latitude: 11.695273
+  longitude: 42.539063
+
+place147:
+  id: 147
+  name: Egypt- In Africa
+  latitude: 28.536275
+  longitude: 30.322266
+
+place148:
+  id: 148
+  name: Equatorial Guinea
+  latitude: 1.5818300000000003
+  longitude: 9.580078
+
+place149:
+  id: 149
+  name: Equatorial Guinea (Bioko Fernando Poo)
+  latitude: 3.483265
+  longitude: 8.681946
+
+place150:
+  id: 150
+  name: Eritrea
+  latitude: 16.130262
+  longitude: 38.583984
+
+place151:
+  id: 151
+  name: Gabon
+  latitude: -0.747049
+  longitude: 11.821289
+
+place152:
+  id: 152
+  name: Gambia
+  latitude: 13.410994000000002
+  longitude: -16.171875
+
+place153:
+  id: 153
+  name: Ghana
+  latitude: 7.667441000000001
+  longitude: -1.098633
+
+place154:
+  id: 154
+  name: Guinea
+  latitude: 10.833306
+  longitude: -11.074219
+
+place155:
+  id: 155
+  name: Guinea-Bissau
+  latitude: 11.910354
+  longitude: -14.897461
+
+place156:
+  id: 156
+  name: Ivory Coast
+  latitude: 6.446318
+  longitude: -5.053711
+
+place157:
+  id: 157
+  name: Kenya
+  latitude: -0.08789100000000001
+  longitude: 38.847656
+
+place158:
+  id: 158
+  name: Lesotho
+  latitude: -29.688053000000004
+  longitude: 28.125
+
+place159:
+  id: 159
+  name: Liberia
+  latitude: 5.965754
+  longitude: -9.316406
+
+place160:
+  id: 160
+  name: Libya
+  latitude: 32.175612
+  longitude: 13.271484
+
+place161:
+  id: 161
+  name: Malawi
+  latitude: -13.496473000000002
+  longitude: 34.189453
+
+place162:
+  id: 162
+  name: Mali
+  latitude: 11.523088000000001
+  longitude: -7.03125
+
+place163:
+  id: 163
+  name: Mauritania
+  latitude: 18.979026
+  longitude: -15.556640999999999
+
+place164:
+  id: 164
+  name: Morocco
+  latitude: 34.161818
+  longitude: -6.679687
+
+place165:
+  id: 165
+  name: Melilla
+  latitude: 35.290469
+  longitude: -2.944336
+
+place166:
+  id: 166
+  name: Ceuta
+  latitude: 35.871247
+  longitude: -5.31189
+
+place167:
+  id: 167
+  name: Mozambique
+  latitude: -18.646245
+  longitude: 35.727539
+
+place168:
+  id: 168
+  name: Namibia
+  latitude: -22.431340000000002
+  longitude: 14.897461
+
+place169:
+  id: 169
+  name: Niger
+  latitude: 13.025966
+  longitude: 3.47168
+
+place170:
+  id: 170
+  name: Nigeria
+  latitude: 8.841651
+  longitude: 7.470703000000001
+
+place171:
+  id: 171
+  name: Rwanda
+  latitude: -1.8893060000000002
+  longitude: 29.707031
+
+place172:
+  id: 172
+  name: Sao Tome & Principe
+  latitude: 0.26367100000000004
+  longitude: 6.679688
+
+place173:
+  id: 173
+  name: Senegal
+  latitude: 15.029686
+  longitude: -16.479492
+
+place174:
+  id: 174
+  name: Sierra Leone
+  latitude: 8.711359
+  longitude: -11.865234
+
+place175:
+  id: 175
+  name: Somalia
+  latitude: 3.030812
+  longitude: 46.010742
+
+place176:
+  id: 176
+  name: Somaliland
+  latitude: 10.358151
+  longitude: 46.23046900000001
+
+place177:
+  id: 177
+  name: South Africa
+  latitude: -33.906896
+  longitude: 18.391113
+
+place178:
+  id: 178
+  name: Sudan
+  latitude: 15.876809000000002
+  longitude: 30.322266
+
+place179:
+  id: 179
+  name: South Sudan
+  latitude: 7.623887000000001
+  longitude: 30.234375
+
+place180:
+  id: 180
+  name: Swaziland
+  latitude: -26.509905
+  longitude: 31.464844000000003
+
+place181:
+  id: 181
+  name: Tanzania
+  latitude: -6.664608
+  longitude: 37.705078
+
+place182:
+  id: 182
+  name: Togo
+  latitude: 8.320212
+  longitude: 0.966797
+
+place183:
+  id: 183
+  name: Tunisia
+  latitude: 35.817813
+  longitude: 10.283203
+
+place184:
+  id: 184
+  name: Uganda
+  latitude: -0.79099
+  longitude: 31.201172000000003
+
+place185:
+  id: 185
+  name: Western Sahara
+  latitude: 25.641526
+  longitude: -13.623047
+
+place186:
+  id: 186
+  name: Zambia
+  latitude: -13.410994000000002
+  longitude: 32.167969
+
+place187:
+  id: 187
+  name: Zanzibar
+  latitude: -6.140555000000001
+  longitude: 39.265137
+
+place188:
+  id: 188
+  name: Zimbabwe
+  latitude: -19.890723
+  longitude: 30.761719
+
+place189:
+  id: 189
+  name: Anguilla
+  latitude: 18.225438
+  longitude: -63.050537
+
+place190:
+  id: 190
+  name: Antigua & Barbuda
+  latitude: 17.109293
+  longitude: -61.798096
+
+place191:
+  id: 191
+  name: Aruba
+  latitude: 12.511665
+  longitude: -69.955444
+
+place192:
+  id: 192
+  name: The Bahamas
+  latitude: 25.045792
+  longitude: -77.34375
+
+place193:
+  id: 193
+  name: Barbados
+  latitude: 13.154376
+  longitude: -59.55688500000001
+
+place194:
+  id: 194
+  name: Cayman Islands
+  latitude: 19.347428
+  longitude: -81.320801
+
+place195:
+  id: 195
+  name: Bonaire
+  latitude: 12.195073
+  longitude: -68.26767
+
+place196:
+  id: 196
+  name: Cuba
+  latitude: 23.120154
+  longitude: -81.342773
+
+place197:
+  id: 197
+  name: Curacao
+  latitude: 12.21118
+  longitude: -69.082031
+
+place198:
+  id: 198
+  name: Dominica
+  latitude: 15.400727999999999
+  longitude: -61.36962900000001
+
+place199:
+  id: 199
+  name: Dominican Republic
+  latitude: 18.500447
+  longitude: -69.993896
+
+place200:
+  id: 200
+  name: Grenada
+  latitude: 12.130635
+  longitude: -61.682739
+
+place201:
+  id: 201
+  name: Guadeloupe
+  latitude: 16.214675
+  longitude: -61.65527300000001
+
+place202:
+  id: 202
+  name: Haiti
+  latitude: 18.542117
+  longitude: -72.355957
+
+place203:
+  id: 203
+  name: Jamaica
+  latitude: 18.187607
+  longitude: -77.321777
+
+place204:
+  id: 204
+  name: Leeward Islands, French (St. Martin)
+  latitude: 18.076021
+  longitude: -63.061008
+
+place205:
+  id: 205
+  name: Leeward Islands, Netherlands (Saba, St. Eustatius)
+  latitude: 17.63617
+  longitude: -63.241425
+
+place206:
+  id: 206
+  name: Martinique
+  latitude: 14.647368000000002
+  longitude: -60.985107
+
+place207:
+  id: 207
+  name: Montserrat
+  latitude: 16.741428
+  longitude: -62.215576
+
+place208:
+  id: 208
+  name: Puerto Rico
+  latitude: 18.458768
+  longitude: -66.104736
+
+place209:
+  id: 209
+  name: St. Barts
+  latitude: 17.899362
+  longitude: -62.824631000000004
+
+place210:
+  id: 210
+  name: San Andres & Providencia
+  latitude: 12.551883
+  longitude: -81.721802
+
+place211:
+  id: 211
+  name: St. Kitts & Nevis
+  latitude: 17.319176
+  longitude: -62.72644
+
+place212:
+  id: 212
+  name: St. Lucia
+  latitude: 13.918072
+  longitude: -60.95214800000001
+
+place213:
+  id: 213
+  name: St. Maarten (formerly Netherlands Antilles)
+  latitude: 18.04844
+  longitude: -63.056545
+
+place214:
+  id: 214
+  name: St. Vincent and the Grenadines
+  latitude: 13.229251
+  longitude: -61.21582000000001
+
+place215:
+  id: 215
+  name: Trinidad & Tobago
+  latitude: 10.401378
+  longitude: -61.413574
+
+place216:
+  id: 216
+  name: Turks & Caicos
+  latitude: 21.739091
+  longitude: -71.619873
+
+place217:
+  id: 217
+  name: Virgin Islands, U.S.
+  latitude: 17.731029
+  longitude: -64.765091
+
+place218:
+  id: 218
+  name: Virgin Islands, British
+  latitude: 18.526655
+  longitude: -64.35894000000002
+
+place219:
+  id: 219
+  name: Argentine (Palmer Peninsula)
+  latitude: -65.403445
+  longitude: -61.43554699999999
+
+place220:
+  id: 220
+  name: Australian Antarctic Territory South Pole (Mawson, Davis, Macquarie, Heard)
+  latitude: -53.107217
+  longitude: 73.564453
+
+place221:
+  id: 221
+  name: Chilean (Palmer Peninsula)
+  latitude: -70.377854
+  longitude: -73.828125
+
+place222:
+  id: 222
+  name: Falkland Islands Dependencies (British Antarctica, Graham Land, So. Shetland, So. Sandwich, So. Georgia, So. Orkney)
+  latitude: -51.563412
+  longitude: -59.545898
+
+place223:
+  id: 223
+  name: French Southern & Antarctic Territory (Kerguelen, Crozet, Amsterdam, St. Paul)
+  latitude: -49.282140000000005
+  longitude: 69.268799
+
+place224:
+  id: 224
+  name: Norwegian (Queen Maud Land, Bouvet)
+  latitude: -54.444492
+  longitude: 3.361816
+
+place225:
+  id: 225
+  name: New Zealand (Ross Dependency)
+  latitude: -69.411242
+  longitude: 153.457031
+
+place226:
+  id: 226
+  name: Ascension Island
+  latitude: -7.955877000000001
+  longitude: -14.370117
+
+place227:
+  id: 227
+  name: Azores Islands
+  latitude: 38.76265
+  longitude: -27.301025000000003
+
+place228:
+  id: 228
+  name: Bermuda
+  latitude: 32.263911
+  longitude: -64.83581500000001
+
+place229:
+  id: 229
+  name: Canary Islands
+  latitude: 27.9847
+  longitude: -15.567627000000002
+
+place230:
+  id: 230
+  name: Cape Verde Islands
+  latitude: 14.944785000000001
+  longitude: -23.521729
+
+place231:
+  id: 231
+  name: Fernando do Noronha
+  latitude: -3.856034
+  longitude: -32.438507
+
+place232:
+  id: 232
+  name: Faroe Islands
+  latitude: 62.062733
+  longitude: -6.987305000000001
+
+place233:
+  id: 233
+  name: Greenland
+  latitude: 64.187249
+  longitude: -43.110352
+
+place234:
+  id: 234
+  name: Iceland
+  latitude: 64.148952
+  longitude: -16.699219
+
+place235:
+  id: 235
+  name: Madeira
+  latitude: 32.759562
+  longitude: -16.951904
+
+place236:
+  id: 236
+  name: St. Helena
+  latitude: -15.958687999999999
+  longitude: -5.707397
+
+place237:
+  id: 237
+  name: Tristan de Cunha
+  latitude: -37.107765
+  longitude: -12.304687
+
+place238:
+  id: 238
+  name: Abkhazia
+  latitude: 43.173135
+  longitude: 41.242676
+
+place239:
+  id: 239
+  name: Afghanistan
+  latitude: 34.524661
+  longitude: 69.16992200000001
+
+place240:
+  id: 240
+  name: Armenia
+  latitude: 40.178873
+  longitude: 44.511108
+
+place241:
+  id: 241
+  name: Azerbaijan
+  latitude: 40.438586
+  longitude: 49.866943
+
+place242:
+  id: 242
+  name: Bangladesh
+  latitude: 23.160563
+  longitude: 89.912109
+
+place243:
+  id: 243
+  name: Bhutan
+  latitude: 27.683528
+  longitude: 90.483398
+
+place244:
+  id: 244
+  name: Brunei
+  latitude: 4.42309
+  longitude: 114.56543
+
+place245:
+  id: 245
+  name: Cambodia
+  latitude: 11.523088000000001
+  longitude: 104.853516
+
+place246:
+  id: 246
+  name: China, People's Republic
+  latitude: 39.909736
+  longitude: 116.411133
+
+place247:
+  id: 247
+  name: Georgia
+  latitude: 41.738528
+  longitude: 44.780273
+
+place248:
+  id: 248
+  name: Hainan Island
+  latitude: 19.47695
+  longitude: 109.599609
+
+place249:
+  id: 249
+  name: Hong Kong
+  latitude: 22.431340000000002
+  longitude: 114.082031
+
+place250:
+  id: 250
+  name: India
+  latitude: 24.726875
+  longitude: 86.791992
+
+place251:
+  id: 251
+  name: Indonesia
+  latitude: -6.184246
+  longitude: 106.787109
+
+place252:
+  id: 252
+  name: Irian Jaya (Dutch New Guinea)
+  latitude: -4.171115
+  longitude: 138.603516
+
+place253:
+  id: 253
+  name: Japan
+  latitude: 36.879621
+  longitude: 139.570313
+
+place254:
+  id: 254
+  name: Jeju Island
+  latitude: 33.523079
+  longitude: 126.518555
+
+place255:
+  id: 255
+  name: Kalimantan (Indo)
+  latitude: -0.505365
+  longitude: 114.213867
+
+place256:
+  id: 256
+  name: Kashmir
+  latitude: 33.468108
+  longitude: 76.59668
+
+place257:
+  id: 257
+  name: Kazakhstan
+  latitude: 43.2932
+  longitude: 76.816406
+
+place258:
+  id: 258
+  name: Kyrgyzstan
+  latitude: 42.488302
+  longitude: 74.575195
+
+place259:
+  id: 259
+  name: North Korea
+  latitude: 39.027719
+  longitude: 125.94726600000001
+
+place260:
+  id: 260
+  name: South Korea
+  latitude: 36.949892
+  longitude: 126.650391
+
+place261:
+  id: 261
+  name: Laos
+  latitude: 19.145168
+  longitude: 102.304688
+
+place262:
+  id: 262
+  name: Lesser Sunda Islands (Bali,Timor, Indonesia)
+  latitude: -8.374562
+  longitude: 115.257568
+
+place263:
+  id: 263
+  name: Macau
+  latitude: 22.197895
+  longitude: 113.545761
+
+place264:
+  id: 264
+  name: Malaysia
+  latitude: 3.030812
+  longitude: 101.46972700000002
+
+place265:
+  id: 265
+  name: Moluka
+  latitude: -3.118576
+  longitude: 128.452148
+
+place266:
+  id: 266
+  name: Mongolia
+  latitude: 47.872144
+  longitude: 106.875
+
+place267:
+  id: 267
+  name: Myanmar (Burma)
+  latitude: 21.963425
+  longitude: 96.04248
+
+place268:
+  id: 268
+  name: Nakhichevan
+  latitude: 39.232253
+  longitude: 45.57128900000001
+
+place269:
+  id: 269
+  name: Nepal
+  latitude: 27.683528
+  longitude: 85.297852
+
+place270:
+  id: 270
+  name: Pakistan
+  latitude: 24.846565
+  longitude: 66.972656
+
+place271:
+  id: 271
+  name: Philippines
+  latitude: 14.604847000000001
+  longitude: 120.9375
+
+place272:
+  id: 272
+  name: Sabah
+  latitude: 5.397273
+  longitude: 116.850586
+
+place273:
+  id: 273
+  name: Sarawak
+  latitude: 2.613839
+  longitude: 113.269043
+
+place274:
+  id: 274
+  name: Siberia (Russia in Asia)
+  latitude: 50.205033
+  longitude: 87.714844
+
+place275:
+  id: 275
+  name: Sikkim
+  latitude: 27.44979
+  longitude: 88.330078
+
+place276:
+  id: 276
+  name: Singapore
+  latitude: 1.263325
+  longitude: 103.84277300000001
+
+place277:
+  id: 277
+  name: Sri Lanka
+  latitude: 8.341953
+  longitude: 80.375977
+
+place278:
+  id: 278
+  name: Sulawesi (Celebes, Indonesia)
+  latitude: -2.416276
+  longitude: 120.585938
+
+place279:
+  id: 279
+  name: Sumatra (Indonesia)
+  latitude: -1.142502
+  longitude: 102.788086
+
+place280:
+  id: 280
+  name: Taiwan
+  latitude: 23.84565
+  longitude: 120.717773
+
+place281:
+  id: 281
+  name: Tajikistan
+  latitude: 38.788345
+  longitude: 69.16992200000001
+
+place282:
+  id: 282
+  name: Thailand
+  latitude: 13.667338
+  longitude: 100.546875
+
+place283:
+  id: 283
+  name: Tibet
+  latitude: 31.765537000000002
+  longitude: 88.813477
+
+place284:
+  id: 284
+  name: Tibet
+  latitude: 31.690782000000002
+  longitude: 89.384766
+
+place285:
+  id: 285
+  name: East Timor (Timor Leste)
+  latitude: -8.885072
+  longitude: 125.46386700000001
+
+place286:
+  id: 286
+  name: Turkey in Asia
+  latitude: 39.842286
+  longitude: 32.871094
+
+place287:
+  id: 287
+  name: Turkmenistan
+  latitude: 38.754083
+  longitude: 59.150391000000006
+
+place288:
+  id: 288
+  name: Uzbekistan
+  latitude: 40.979898
+  longitude: 64.335938
+
+place289:
+  id: 289
+  name: Vietnam
+  latitude: 10.746969
+  longitude: 106.69921900000001
+
+place290:
+  id: 290
+  name: Australia
+  latitude: -34.307144
+  longitude: 149.414063
+
+place291:
+  id: 291
+  name: Australia + extra
+  latitude: -28.149503
+  longitude: 143.964844
+
+place292:
+  id: 292
+  name: China Extented
+  latitude: 33.72434
+  longitude: 116.54296900000001
+
+place293:
+  id: 293
+  name: India Extra
+  latitude: 18.479609
+  longitude: 80.15625000000001
+
+place294:
+  id: 294
+  name: Burma, Thailand, Laos, Cambodia, Vietnam, Malaysia, Philippines, Indonesia extra focus in this area  
+  latitude: 18.479609
+  longitude: 100.195313
+
+place295:
+  id: 295
+  name: Bismark Archipelago
+  latitude: -5.801827
+  longitude: 150.292969
+
+place296:
+  id: 296
+  name: Chatham Islands
+  latitude: -43.961191
+  longitude: -176.52832
+
+place297:
+  id: 297
+  name: Cook Islands
+  latitude: -21.248422
+  longitude: -159.78515600000003
+
+place298:
+  id: 298
+  name: Easter Island
+  latitude: -27.115368
+  longitude: -109.36615
+
+place299:
+  id: 299
+  name: Fiji Islands
+  latitude: -17.811456
+  longitude: 178.022461
+
+place300:
+  id: 300
+  name: French Polynesia
+  latitude: -17.602139
+  longitude: -149.458008
+
+place301:
+  id: 301
+  name: Galapagos Islands
+  latitude: -0.79099
+  longitude: -91.186523
+
+place302:
+  id: 302
+  name: Guam
+  latitude: 13.378932
+  longitude: 144.700928
+
+place303:
+  id: 303
+  name: Hawaiian Islands
+  latitude: 19.808054
+  longitude: -155.566406
+
+place304:
+  id: 304
+  name: Juan Fernandez Islands (Robinson Crusoe Island)
+  latitude: -33.635203
+  longitude: -78.852997
+
+place305:
+  id: 305
+  name: Kiribati
+  latitude: 1.8234230000000002
+  longitude: -157.324219
+
+place306:
+  id: 306
+  name: Line/Phoenix islands part of kiribati
+  latitude: 3.842332
+  longitude: -159.296265
+
+place307:
+  id: 307
+  name: Lord Howe Island
+  latitude: -31.568005000000003
+  longitude: 159.091644
+
+place308:
+  id: 308
+  name: Marquesas Islands
+  latitude: -8.887785
+  longitude: -140.136108
+
+place309:
+  id: 309
+  name: Marshall Islands
+  latitude: 7.465964
+  longitude: 168.925781
+
+place310:
+  id: 310
+  name: Micronesia
+  latitude: 6.907341
+  longitude: 158.236084
+
+place311:
+  id: 311
+  name: Midway Island
+  latitude: 28.226970000000005
+  longitude: -177.385254
+
+place312:
+  id: 312
+  name: Nauru
+  latitude: -0.52871
+  longitude: 166.937256
+
+place313:
+  id: 313
+  name: New Caledonia & Deps
+  latitude: -21.289374
+  longitude: 165.498047
+
+place314:
+  id: 314
+  name: New Zealand
+  latitude: -43.452919
+  longitude: 172.353516
+
+place315:
+  id: 315
+  name: New Zealand extra
+  latitude: -41.409776
+  longitude: 173.671875
+
+place316:
+  id: 316
+  name: Niue
+  latitude: -19.056926
+  longitude: -169.881592
+
+place317:
+  id: 317
+  name: Norfolk Island
+  latitude: -29.03546
+  longitude: 167.962761
+
+place318:
+  id: 318
+  name: Northern Marianas
+  latitude: 15.172879000000002
+  longitude: 145.728149
+
+place319:
+  id: 319
+  name: Ogasawara (Bonin, Volcano Island, Iwo Jima)
+  latitude: 26.684275
+  longitude: 142.157593
+
+place320:
+  id: 320
+  name: Palau
+  latitude: 7.444176999999999
+  longitude: 134.544067
+
+place321:
+  id: 321
+  name: Papua New Guinea
+  latitude: -7.645665000000001
+  longitude: 146.359863
+
+place322:
+  id: 322
+  name: Pitcairn Island
+  latitude: -24.337087
+  longitude: -128.353271
+
+place323:
+  id: 323
+  name: Ryukyu Islands (Okinawa)
+  latitude: 26.470573
+  longitude: 127.891846
+
+place324:
+  id: 324
+  name: Samoa, American (Pago Pago)
+  latitude: -14.338904
+  longitude: -170.804443
+
+place325:
+  id: 325
+  name: Samoa (Apia)
+  latitude: -13.848747
+  longitude: -171.870117
+
+place326:
+  id: 326
+  name: Solomon Islands
+  latitude: -9.709057
+  longitude: 160.180664
+
+place327:
+  id: 327
+  name: Tasmania
+  latitude: -42.179688
+  longitude: 146.865234
+
+place328:
+  id: 328
+  name: Tokelau Islands
+  latitude: -9.150909
+  longitude: -171.870117
+
+place329:
+  id: 329
+  name: Tonga
+  latitude: -21.176729
+  longitude: -175.177002
+
+place330:
+  id: 330
+  name: Tuvalu
+  latitude: -8.530775
+  longitude: 179.188385
+
+place331:
+  id: 331
+  name: Vanuatu (New Hebrides Islands)
+  latitude: -15.30538
+  longitude: 166.860352
+
+place332:
+  id: 332
+  name: Wake Island
+  latitude: 19.298183
+  longitude: 166.643372
+
+place333:
+  id: 333
+  name: Wallis & Futuna Islands
+  latitude: -14.317615
+  longitude: -178.154297
+
+place334:
+  id: 334
+  name: Brazil extended
+  latitude: -15.7922533
+  longitude: -47.8125
+
+place335:
+  id: 335
+  name: Japan
+  latitude: 39.774769000000006
+  longitude: 140.800781
+
+place336:
+  id: 336
+  name: russia extended 
+  latitude: 52.268157
+  longitude: 82.792969
+
+place337:
+  id: 337
+  name: France 
+  latitude: 46.920255
+  longitude: 3.691406
+
+place338:
+  id: 338
+  name: Germany
+  latitude: 50.847573000000004
+  longitude: 8.4375
+
+place339:
+  id: 339
+  name: Italy
+  latitude: 44.465151
+  longitude: 11.074219
+
+place340:
+  id: 340
+  name: Greece
+  latitude: 39.97712
+  longitude: 21.796875
+
+place341:
+  id: 341
+  name: Spain
+  latitude: 40.245992
+  longitude: -0.878906
+
+place342:
+  id: 342
+  name: Mexico
+  latitude: 21.779905
+  longitude: -100.546875
+
+place343:
+  id: 343
+  name: United Kingdom
+  latitude: 52.160455
+  longitude: -1.933594
+
+place344:
+  id: 344
+  name: Egypt
+  latitude: 27.839076
+  longitude: 30.234375
+
+place345:
+  id: 345
+  name: England
+  latitude: 51.3992057
+  longitude: -0.4174805
