@@ -1,8 +1,13 @@
 <h1>Travel Tracker app here</h1> 
-<h3>Users and Places</h3>
 
+<h3>Map</h3>
+<div>
+spaceholder
+</div>
+
+<h3>Users and Places</h3>
 <% @users.each do |u| %>
-<p>User: <%= u.email %></p>
+<p>User: <%= u.email %> -- <%= link_to "Add / Remove Places", '#' %>
 <ul>
   <% u.place_relationships.each do |p| %>
     <li><%= p.place.name %></li>

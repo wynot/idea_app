@@ -1,0 +1,1 @@
+json.array! @user_place_lists, partial: 'user_place_lists/user_place_list', as: :user_place_list
